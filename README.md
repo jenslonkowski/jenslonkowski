@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a software engineer living in Hamburg, Germany and I love working on web projects.
+
 <!--
 **jenslonkowski/jenslonkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
